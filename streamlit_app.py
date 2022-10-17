@@ -1,7 +1,7 @@
 
 import streamlit
 
-streamlit.title("New Workshop");
+streamlit.title("🥣New Workshop");
 
 streamlit.header("Lerning");
 
