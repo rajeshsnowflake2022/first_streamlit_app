@@ -1,4 +1,4 @@
 
 import streamlit
 
-streamlit.title("Workshop");
+streamlit.title("New Workshop");
